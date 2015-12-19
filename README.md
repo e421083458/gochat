@@ -11,6 +11,7 @@
 ## 运行实例
 
 实例运行运行在go环境中，安装go环境请参照(http://golang.org/doc/install)
+
 启动服务器。
 
     $ git clone github.com/gorilla/websocket
@@ -19,6 +20,7 @@
     $ go run *.go
 
 运行命令行客户端   
+
     $ cd client
     $ go run *.go
 
@@ -26,7 +28,9 @@
     http://127.0.0.1:8080/
 
 登陆聊天室输入：
+
     username=niuyufu&token=123456
 
 跟某人私聊输入：
+
     @dengyanlu 这是私聊信息！
