@@ -14,8 +14,8 @@
 
 启动服务器。
 
-    $ git clone github.com/gorilla/websocket
     $ go get github.com/gorilla/websocket
+    $ git clone git@github.com:e421083458/gochat.git
     $ cd server
     $ go run *.go
 
